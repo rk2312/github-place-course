@@ -6,3 +6,7 @@ function isabove()
 {
     return true;
 }
+function  feature()
+{
+    console.log("new feature added");
+}
